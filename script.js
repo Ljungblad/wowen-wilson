@@ -25,7 +25,6 @@ function shuffle(wows) {
 
 image.addEventListener("click", event => {
   shuffle(wows);
-  console.log(wows[1]["audioFile"]);
   const audioSource = `<source class="audio__source" src="audio/${wows[1]["audioFile"]}" type="audio/mpeg">`;
   const wowMessage = `<h1>${wows[1]["wow"]}</h1>`;
   audio.innerHTML = audioSource;
