@@ -1,14 +1,14 @@
 "use strict";
 
 const wows = [
-  { audioFile: "wow1.mp3", wow: "Weeow" },
-  { audioFile: "wow2.mp3", wow: "Weoow" },
+  { audioFile: "wow1.mp3", wow: "Weeow!" },
+  { audioFile: "wow2.mp3", wow: "Weoow!" },
   { audioFile: "wow3.mp3", wow: "WEOW!" },
-  { audioFile: "wow4.mp3", wow: "Weow" },
-  { audioFile: "wow5.mp3", wow: "Waow" },
-  { audioFile: "wow6.mp3", wow: "Wow" },
-  { audioFile: "wow7.mp3", wow: "Wweeoow" },
-  { audioFile: "wow8.mp3", wow: "weeow" }
+  { audioFile: "wow4.mp3", wow: "Weow!" },
+  { audioFile: "wow5.mp3", wow: "Waow!" },
+  { audioFile: "wow6.mp3", wow: "Wow!" },
+  { audioFile: "wow7.mp3", wow: "Wweeoow!" },
+  { audioFile: "wow8.mp3", wow: "weeow." }
 ];
 
 const image = document.querySelector(".image");
