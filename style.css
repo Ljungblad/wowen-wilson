@@ -4,12 +4,7 @@
   box-sizing: border-box;
 }
 
-body {
-  background-color: white;
-}
-
 .wrapper {
-  width: 100vw;
   height: 100vh;
   display: flex;
   justify-content: center;
@@ -23,7 +18,7 @@ body {
 }
 
 h1 {
-  font-family: "Alfa Slab One", cursive;
+  font-family: 'Alfa Slab One', cursive;
   font-size: 40px;
   letter-spacing: 2px;
   text-align: center;
